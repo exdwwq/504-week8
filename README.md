@@ -11,7 +11,7 @@ Each file has at least 3 mis-spellings in it.
 If you fix something, and commit it and then figure out you mde a mistake,
 or missed a mistake please just fix it and make another commit.
 
-You can find the origial of these documents at https://misymptomapp.state.mi.us/faq
+You can find the origial of these documents at https://web.archive.org/web/20210421151515/https://misymptomapp.state.mi.us/faq
 
 Please note that the FAQ may have been udpated since this repo was created. 
 
